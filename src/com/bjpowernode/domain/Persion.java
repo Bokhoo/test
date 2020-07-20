@@ -8,6 +8,7 @@ import java.util.Date;
  */
 public class Persion {
     private String id;
+    private int haha;
     private String name;
     private int age;
     private Date date;
